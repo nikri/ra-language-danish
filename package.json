@@ -1,0 +1,23 @@
+{
+  "name": "ra-language-danish",
+  "version": "1.0.0",
+  "description": "Danish messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikri/ra-language-danish.git"
+  },
+  "keywords": [
+    "react-admin",
+    "danish",
+    "translation",
+    "translate",
+    "ra-language-danish"
+  ],
+  "author": "Niels A. Kristiansen <nak0709@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikri/ra-language-danish/issues"
+  },
+  "homepage": "https://github.com/nikri/ra-language-danish#readme"
+}
