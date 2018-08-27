@@ -16,7 +16,7 @@ module.exports = {
             refresh: 'Opdater',
             remove_filter: 'Slet filter',
             remove: 'Fjern',
-            save: 'Gam',
+            save: 'Gem',
             show: 'Vis',
             sort: 'Sorter',
             undo: 'Fortryd',
@@ -30,7 +30,7 @@ module.exports = {
             dashboard: 'Dashboard',
             edit: '%{name} #%{id}',
             error: 'Noget gik galt',
-            list: '%{name} Liste',
+            list: '%{name} liste',
             loading: 'Henter',
             not_found: 'Ikke fundet',
             show: '%{name} #%{id}',
@@ -61,7 +61,7 @@ module.exports = {
             bulk_delete_content:
                 'Er du sikker på du vil slette %{name}? |||| Er du sikker på du ville slette %{smart_count} poster?',
             bulk_delete_title:
-                'Slet %{name} |||| Sltter %{smart_count} %{name} poster',
+                'Slet %{name} |||| Sletter %{smart_count} %{name} poster',
             delete_content: 'Er du sikker på du ville slette denne post?',
             delete_title: 'Slet %{name} #%{id}',
             details: 'Detaljer',
