@@ -20,6 +20,8 @@ module.exports = {
             show: 'Vis',
             sort: 'Sorter',
             undo: 'Fortryd',
+            unselect: 'Fjern markering',
+            confirm: 'Bekræft',
         },
         boolean: {
             true: 'Ja',
@@ -82,8 +84,10 @@ module.exports = {
             page_out_from_end: 'Der findes ikke flere sider',
             page_out_from_begin: 'Der er ingen side før end side 1',
             page_range_info: '%{offsetBegin}-%{offsetEnd} af %{total}',
+            page_rows_per_page: 'Rækker per side',
             next: 'Næste',
             prev: 'Forrige',
+            skip_nav: 'Spring navigation over',
         },
         auth: {
             username: 'Brugernavn',
@@ -91,6 +95,7 @@ module.exports = {
             sign_in: 'Log ind',
             sign_in_error: 'Dit log ind fejlede, prøv igen',
             logout: 'Log ud',
+            user_menu: 'Profil',
         },
         notification: {
             updated: 'Objekt opdateret |||| %{smart_count} objekter opdateret',
